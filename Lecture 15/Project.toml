@@ -1,0 +1,7 @@
+[deps]
+BlockDiagonals = "0a1fb500-61f7-11e9-3c65-f5ef3456f9f0"
+ControlSystems = "a6e380b2-a6ca-5380-bf3e-84a91bcd477e"
+MeshCat = "283c5d60-a78f-5afe-a0af-af636b173e11"
+RobotZoo = "74be38bb-dcc2-4b9e-baf3-d6373cd95f10"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+TrajOptPlots = "7770976a-8dee-4930-bf39-a1782fd21ce6"
